@@ -1,0 +1,3 @@
+[submodule "pynance"]
+	path = pynance
+	url = https://github.com/mqandil/pynance
